@@ -1,0 +1,8 @@
+{
+  "name": "Más que seres",
+  "description": "Un podcast para la profundidad, introspección y conexión humana. Explora episodios en vídeo y artículos de reflexión.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
